@@ -1,0 +1,11 @@
+*.html
+*.o
+*.d
+*.a
+*.list
+*.mk
+*.map
+*.ld
+*.bin
+*.elf
+.DS_STORE
